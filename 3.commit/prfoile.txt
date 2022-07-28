@@ -1,2 +1,2 @@
-email : testEmail@test.com
+email : testEmail2@test.com
 gitID : testID
